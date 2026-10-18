@@ -1,6 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=200&section=header&text=Pranjal%20Borade&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Python%20Developer%20%C2%B7%20Backend%20%26%20Application%20Security&descAlignY=60&descSize=16" alt="Pranjal Borade banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=200&section=header&text=Pranjal%20Borade&fontColor=ffffff&fontSize=48" alt="Pranjal Borade" />
 
 <br>
 
@@ -20,10 +19,10 @@ I'm a Python developer who enjoys turning ideas into reliable, well-structured a
 
 |  |  |
 |---|---|
-| 🐍 **Focus** | Backend development with Python |
-| 🔌 **Interests** | API design and integration |
-| 🔐 **Exploring** | Application and prompt security |
-| 🌱 **Always** | Learning, building, and improving |
+|  **Focus** | Backend development with Python |
+|  **Interests** | API design and integration |
+|  **Exploring** | Application and prompt security |
+|  **Always** | Learning, building, and improving |
 
 ---
 
@@ -64,7 +63,7 @@ I'm a Python developer who enjoys turning ideas into reliable, well-structured a
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -75,11 +74,11 @@ I'm a Python developer who enjoys turning ideas into reliable, well-structured a
 
 ---
 
-## 🎯 Currently
+## Currently
 
-- 🔧 Strengthening my backend and API development skills
-- 🔐 Exploring application security practices
-- 🧪 Building real projects and improving them one iteration at a time
+-  Strengthening my backend and API development skills
+-  Exploring application security practices
+-  Building real projects and improving them one iteration at a time
 
 ---
 
