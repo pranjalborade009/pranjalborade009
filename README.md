@@ -1,132 +1,92 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0D1117,50:14213D,100:1D4ED8&text=PRANJAL%20BORADE&fontSize=38&fontColor=FFFFFF&fontAlignY=43&desc=Python%20%7C%20Backend%20Development%20%7C%20Problem%20Solving&descSize=13&descAlignY=65&descColor=C9D1D9" width="100%" alt="Pranjal Borade — Developer Profile"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=200&section=header&text=Pranjal%20Borade&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Python%20Developer%20%C2%B7%20Backend%20%26%20Application%20Security&descAlignY=60&descSize=16" alt="Pranjal Borade banner" />
 
-<br/>
+<br>
 
-<a href="https://github.com/pranjalborade009?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Explore projects"/>
-</a>
-&nbsp;
-<a href="https://github.com/pranjalborade009">
-  <img src="https://img.shields.io/badge/FOLLOW%20MY%20WORK-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Follow my work"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-pranjalborade009-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranjalborade009)
+[![Repositories](https://img.shields.io/badge/Repositories-Explore-3b82f6?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/pranjalborade009?tab=repositories)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+practical+software.;Exploring+Python+and+backend+systems.;Learning+by+building%2C+testing%2C+and+improving." alt="Developer introduction"/>
+*Building practical, secure, and well-designed software.*
 
 </div>
 
 ---
 
-## About
+## 👋 About Me
 
-I enjoy taking an idea, understanding the problem behind it, and turning it into something people can actually use.
+I'm a Python developer who enjoys turning ideas into reliable, well-structured applications. I like understanding how systems work behind the scenes, and I'm especially drawn to **backend development, API design, and application security**.
 
-My work revolves around **Python development, backend systems, APIs, and practical applications**. I'm particularly interested in how software works behind the interface—from processing inputs to handling data and building reliable application logic.
-
-I prefer projects that teach me something real, challenge my thinking, and give me room to improve.
-
-```python
-class Developer:
-    name = "Pranjal Borade"
-    primary_language = "Python"
-    interests = [
-        "Backend Development",
-        "API Design",
-        "Application Security",
-        "Problem Solving",
-    ]
-
-    def approach(self):
-        return "Build → Test → Learn → Improve"
-```
+|  |  |
+|---|---|
+| 🐍 **Focus** | Backend development with Python |
+| 🔌 **Interests** | API design and integration |
+| 🔐 **Exploring** | Application and prompt security |
+| 🌱 **Always** | Learning, building, and improving |
 
 ---
 
-## Technical Toolkit
+## 🧰 Tech Stack
+
+**Backend and tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,sql,git,github&theme=light" alt="Backend technologies" />
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,react,typescript,html,css&theme=light" alt="Frontend technologies" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ PromptShield</h3>
+      <p>A Python-based detection system that explores prompt security by identifying risky or malicious prompts.</p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Security-dc2626?style=flat-square" alt="Security" /></p>
+      <a href="https://github.com/pranjalborade009/techsutra-buildstorm">View project →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🍃 Nutrition & Food Apps</h3>
+      <p>Applications built around food information, nutrition data, and making everyday food choices easier.</p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Health%20Tech-16a34a?style=flat-square" alt="Health Tech" /></p>
+      <a href="https://github.com/pranjalborade009?tab=repositories">Explore repositories →</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-### Core
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,sqlite,git,github&theme=dark" alt="Python backend and development tools"/>
-
-### Also working with
-
-<img src="https://skillicons.dev/icons?i=javascript,react,typescript,html,css,supabase,vscode&theme=dark" alt="Frontend, database, and development tools"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=pranjalborade009&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="GitHub stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalborade009&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="Top languages" />
 
 </div>
 
 ---
 
-## Selected Work
+## 🎯 Currently
 
-<div align="center">
-
-<a href="https://github.com/pranjalborade009/techsutra-buildstorm">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranjalborade009&repo=techsutra-buildstorm&theme=github_dark&hide_border=true" width="49%" alt="PromptShield project repository"/>
-</a>
-<a href="https://github.com/pranjalborade009?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranjalborade009&repo=pranjalborade009.github.io&theme=github_dark&hide_border=true" width="49%" alt="Portfolio repository"/>
-</a>
-
-</div>
-
-### 🛡️ PromptShield
-
-A project focused on analysing potentially unsafe prompts through a security-oriented detection system.
-
-`Python` · `FastAPI` · `Application Security`
-
-[Explore the source code →](https://github.com/pranjalborade009/techsutra-buildstorm)
-
-### 🍎 Nutrition & Food Applications
-
-Exploring application development around food information, nutrition, and more useful ways to navigate everyday food choices.
-
-[Explore my repositories →](https://github.com/pranjalborade009?tab=repositories)
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=pranjalborade009&bg_color=0D1117&color=58A6FF&line=3B82F6&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph"/>
-
-<br/><br/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=pranjalborade009&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github" alt="GitHub statistics"/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalborade009&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Most-used programming languages"/>
-
-</div>
-
----
-
-## Current Focus
-
-- Writing cleaner, more maintainable Python.
-- Building and understanding backend APIs.
-- Strengthening database and software engineering fundamentals.
-- Improving project documentation, testing, and reliability.
+- 🔧 Strengthening my backend and API development skills
+- 🔐 Exploring application security practices
+- 🧪 Building real projects and improving them one iteration at a time
 
 ---
 
 <div align="center">
 
-### Build with purpose. Improve with every iteration.
+*Less noise, more building.* ☁️
 
-<br/>
-
-<a href="https://github.com/pranjalborade009?tab=repositories">
-  <img src="https://img.shields.io/badge/More%20Projects-58A6FF?style=flat-square&logo=github&logoColor=0D1117" alt="More projects"/>
-</a>
-
-<br/><br/>
-
-<sub>Thanks for visiting. Feel free to explore the code.</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0f172a&height=100&section=footer" alt="footer" />
 
 </div>
